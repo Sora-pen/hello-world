@@ -1,0 +1,4 @@
+name: plugin_sample
+version: '1.0'
+main: plugin_sample.Main
+api-version: '1.21'
